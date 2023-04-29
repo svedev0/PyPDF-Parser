@@ -1,4 +1,4 @@
-# 📄 PyPDF-Parser
+# 📄 Python PDF Parser
 
 A PDF parser that outputs the text content of a `.pdf` file to a `.txt` file using Python. Some formatting is also done to make the raw text more presentable.
 
